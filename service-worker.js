@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Tomer-Avraham-31-08-2022/precache-manifest.3b5d667908fccab63749b282eea0ffa8.js"
+  "/Tomer-Avraham-31-08-2022/precache-manifest.d4d1754b1b8415f48e81f427fce8afe5.js"
 );
 
 workbox.clientsClaim();

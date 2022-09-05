@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Tomer-Avraham-31-08-2022/static/media/currentForecastBackground.44319328.png"
   },
   {
-    "revision": "a1c530c1f9261cc434fd2d0a6fbb2f4d",
+    "revision": "144362f4d93dce79d0447ff94ffe663b",
     "url": "/Tomer-Avraham-31-08-2022/index.html"
   }
 ];
