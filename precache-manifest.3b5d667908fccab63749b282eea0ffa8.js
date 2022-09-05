@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "c3f9e76cc3d92b209b3f",
+    "revision": "19c852afdc4ee8a487ad",
     "url": "/Tomer-Avraham-31-08-2022/static/css/main.88d119fa.chunk.css"
   },
   {
-    "revision": "c3f9e76cc3d92b209b3f",
-    "url": "/Tomer-Avraham-31-08-2022/static/js/main.c3f9e76c.chunk.js"
+    "revision": "19c852afdc4ee8a487ad",
+    "url": "/Tomer-Avraham-31-08-2022/static/js/main.19c852af.chunk.js"
   },
   {
-    "revision": "98e8c77ab904c431269a",
-    "url": "/Tomer-Avraham-31-08-2022/static/js/1.98e8c77a.chunk.js"
+    "revision": "8ac6ce064f75eb26c05d",
+    "url": "/Tomer-Avraham-31-08-2022/static/js/1.8ac6ce06.chunk.js"
   },
   {
     "revision": "064130c852d12e6d5d60",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Tomer-Avraham-31-08-2022/static/media/currentForecastBackground.44319328.png"
   },
   {
-    "revision": "f9960ff92e8b3d35b88b10208ec87a4d",
+    "revision": "a1c530c1f9261cc434fd2d0a6fbb2f4d",
     "url": "/Tomer-Avraham-31-08-2022/index.html"
   }
 ];
