@@ -1,7 +1,7 @@
 {
   "main.css": "/Tomer-Avraham-31-08-2022/static/css/main.88d119fa.chunk.css",
-  "main.js": "/Tomer-Avraham-31-08-2022/static/js/main.ccf61634.chunk.js",
-  "main.js.map": "/Tomer-Avraham-31-08-2022/static/js/main.ccf61634.chunk.js.map",
+  "main.js": "/Tomer-Avraham-31-08-2022/static/js/main.21ca24ac.chunk.js",
+  "main.js.map": "/Tomer-Avraham-31-08-2022/static/js/main.21ca24ac.chunk.js.map",
   "static/js/1.8ac6ce06.chunk.js": "/Tomer-Avraham-31-08-2022/static/js/1.8ac6ce06.chunk.js",
   "static/js/1.8ac6ce06.chunk.js.map": "/Tomer-Avraham-31-08-2022/static/js/1.8ac6ce06.chunk.js.map",
   "runtime~main.js": "/Tomer-Avraham-31-08-2022/static/js/runtime~main.064130c8.js",
@@ -10,6 +10,6 @@
   "static/media/currentForecastBackground.png": "/Tomer-Avraham-31-08-2022/static/media/currentForecastBackground.44319328.png",
   "static/css/main.88d119fa.chunk.css.map": "/Tomer-Avraham-31-08-2022/static/css/main.88d119fa.chunk.css.map",
   "index.html": "/Tomer-Avraham-31-08-2022/index.html",
-  "precache-manifest.e8f47ba877b4ab516c882561c95ec504.js": "/Tomer-Avraham-31-08-2022/precache-manifest.e8f47ba877b4ab516c882561c95ec504.js",
+  "precache-manifest.0a5dab672980e832c5da0767dbef157c.js": "/Tomer-Avraham-31-08-2022/precache-manifest.0a5dab672980e832c5da0767dbef157c.js",
   "service-worker.js": "/Tomer-Avraham-31-08-2022/service-worker.js"
 }
