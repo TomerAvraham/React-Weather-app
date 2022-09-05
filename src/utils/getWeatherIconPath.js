@@ -1,3 +1,3 @@
 export default (iconNumber) => {
-    return `/weatherIcons/${iconNumber}-s.png`
+    return `/Tomer-Avraham-31-08-2022/weatherIcons/${iconNumber}-s.png`
 }
