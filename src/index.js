@@ -11,7 +11,7 @@ root.render(
   <React.StrictMode>
     <Provider store={store} >
       <ColorModeContextProvider>
-        <BrowserRouter>
+        <BrowserRouter basename='/Tomer-Avraham-31-08-2022' >
           <App/>
         </BrowserRouter>    
       </ColorModeContextProvider>
